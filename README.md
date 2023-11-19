@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fawwaz Alifio Farsa</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 
+- 🔭 I’m a student at **Politeknik Negeri Malang**
+
 - 🌱 I’m currently learning **Hapi.js, PostgreSQL, MongoDB**
 
 - 💬 Ask me about **Express.js**
-
-- 📫 How to reach me **fawwaz.alifio.farsa@gmail.com**
 
 - ⚡ Fun fact **I'm a bodybuilder who's interested in coding**
 
