@@ -3,9 +3,7 @@
 
 - 🔭 I’m a student at **Politeknik Negeri Malang**
 
-- 🌱 I’m currently learning **Hapi.js, PostgreSQL, MongoDB**
-
-- 💬 Ask me about **Express.js**
+- 🌱 I’m currently deepening my knowledge in **Website Development**
 
 - ⚡ Fun fact **I'm a bodybuilder who's interested in coding**
 
