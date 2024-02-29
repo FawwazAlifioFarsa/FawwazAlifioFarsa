@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fawwaz Alifio Farsa</h1>
-<h3 align="center">A passionate backend developer from Indonesia</h3>
+<h3 align="center">A passionate junior backend developer from Indonesia</h3>
 
 - 🔭 I’m a student at **Politeknik Negeri Malang**
 
